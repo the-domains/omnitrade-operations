@@ -1,7 +1,7 @@
 name: OMNITRADE Operations
 favicon: null
-layout_spectrum: 0.2827597998548299
-typography_spectrum: 0.750655056675896
+layout_spectrum: 0
+typography_spectrum: 0.15828
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#629fe9'
+    - '#87c5fe'
+    - '#004086'
+    - '#2961a6'
   brandStrength: 0.5394302317872643
   lightness: 0.19012817228212953
   saturation: 0.29562180466018617
