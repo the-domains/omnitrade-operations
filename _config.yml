@@ -2,6 +2,7 @@ name: OMNITRADE Operations
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.15241
+title: OMNITRADE Operations
 cta:
   domain: null
   bucket: null
